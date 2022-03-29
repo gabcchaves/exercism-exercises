@@ -1,0 +1,11 @@
+{
+  "name": "exercism-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabcchaves/exercism-exercises.git",
+  "author": "Gabriel Costa Chaves <gabcchaves@zohomail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
